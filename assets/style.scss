@@ -1,5 +1,30 @@
-.row{
+// Home Screen Styles
+
+// Title page
+
+#title-container{
     background-color: red;
+    height: 100vh;
     width: 100%;
     text-align: center;
+}
+
+#title-text{
+    color: white;
+    background-color: blue;
+    padding-top: 250px!important;
+}
+
+#description-text{
+    color: white;
+    background-color: purple;
+    margin-top: -10px;
+}
+
+.test{
+    color:blueviolet;
+}
+
+.test1{
+    color: white!important;
 }
